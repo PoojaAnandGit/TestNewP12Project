@@ -8,7 +8,7 @@ packages:
   gitUsername: PoojaAnandGit
   gitBranch: main
 services:
-- serviceName: project.testnewp12.integrations:e1
+- serviceName: project.testnewp12.integrations:newEdgeflow
   packages:
   - name: TestNewP12Project
     version: "1.0"
